@@ -1,2 +1,2 @@
 # Ivideo
-An Video based website
+A Video based website
